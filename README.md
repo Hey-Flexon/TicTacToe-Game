@@ -1,4 +1,4 @@
-TIC TAC TOE GAME with BACKGROUND MUSIC [BGM]
+TIC TAC TOE GAME with BACKGROUND MUSIC [BGM]<br>
 'O' & 'X' users.
 
 There is used HTML , CSS & JS.
